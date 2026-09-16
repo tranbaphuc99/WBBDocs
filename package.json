@@ -16,6 +16,8 @@
     "build:psychic-ai": "npm run build --workspace=apps/psychic-ai",
     "start:dayly": "npm run start --workspace=apps/dayly",
     "build:dayly": "npm run build --workspace=apps/dayly",
+    "start:earshot": "npm run start --workspace=apps/earshot",
+    "build:earshot": "npm run build --workspace=apps/earshot",
     "serve": "npm run build && node scripts/serve.js"
   },
   "engines": {
