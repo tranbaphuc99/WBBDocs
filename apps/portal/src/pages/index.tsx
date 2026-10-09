@@ -11,6 +11,7 @@ const APPS: { id: string; name: string; description: string }[] = [
   { id: 'psychic-ai', name: 'Psychic AI', description: 'Privacy Policy & Support' },
   { id: 'dayly', name: 'Dayly: Daily Planner & Habits', description: 'Support, Privacy Policy & Terms of Use' },
   { id: 'earshot', name: 'Earshot — Voice to Text', description: 'Support, Privacy Policy & Terms of Use' },
+  { id: 'everyhour', name: 'EveryHour — Hours Tracker', description: 'Support, Privacy Policy & Terms of Use' },
   // Add more apps here as you create them
 ];
 

@@ -1,0 +1,30 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Palette taken from the EveryHour app icon: navy dial, green check. */
+:root {
+  --ifm-color-primary: #1f9d55;
+  --ifm-color-primary-dark: #1c8d4d;
+  --ifm-color-primary-darker: #1a8549;
+  --ifm-color-primary-darkest: #156e3c;
+  --ifm-color-primary-light: #22ad5d;
+  --ifm-color-primary-lighter: #24b561;
+  --ifm-color-primary-lightest: #2fcc70;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #3ccb75;
+  --ifm-color-primary-dark: #2cbc65;
+  --ifm-color-primary-darker: #29b25f;
+  --ifm-color-primary-darkest: #22934e;
+  --ifm-color-primary-light: #55d386;
+  --ifm-color-primary-lighter: #62d78f;
+  --ifm-color-primary-lightest: #87e2a9;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
