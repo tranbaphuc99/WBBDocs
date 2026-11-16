@@ -20,6 +20,8 @@
     "build:earshot": "npm run build --workspace=apps/earshot",
     "start:everyhour": "npm run start --workspace=apps/everyhour",
     "build:everyhour": "npm run build --workspace=apps/everyhour",
+    "start:framemate": "npm run start --workspace=apps/framemate",
+    "build:framemate": "npm run build --workspace=apps/framemate",
     "serve": "npm run build && node scripts/serve.js"
   },
   "engines": {
